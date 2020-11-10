@@ -25,5 +25,5 @@ class Quiz extends StatelessWidget {
         }).toList()
       ],
     );
-  }e
+  }
 }
